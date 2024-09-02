@@ -34,7 +34,7 @@
 
 # Задание 2. 
 
-[deployment.yaml](https://github.com/netology-code/sys-pattern-homework/blob/main/screen-instruction.md)
+[deployment.yaml](https://github.com/kshatyy/k8s-2-8/blob/main/deployment.yaml)
 
 <img src="img/2-1.png">
 
